@@ -1,0 +1,10 @@
+UrunNo: 123 Birim: 5 kg BirimFiyati: 14 UrunAdi: Cimento Markasi: DenizYapi
+UrunNo: 1234 Birim: 2 kg BirimFiyati: 181 UrunAdi: SeffafSuYalitimi Markasi: izoYalitim
+UrunNo: 12345 Birim: 20 adet BirimFiyati: 28 UrunAdi: MolozCuvali Markasi: BurakYapi
+UrunNo: 123456 Birim: 100 adet BirimFiyati: 11 UrunAdi: Tugla Markasi: KarahanTicaret
+UrunNo: 132 Birim: 5 kg BirimFiyati: 12 UrunAdi: YapistirmaHarci Markasi: Bedel
+UrunNo: 13267 Birim: 30 adet BirimFiyati: 10 UrunAdi: DemirBoru Markasi: DekorMagazam
+UrunNo: 1456 Birim: 5 kg BirimFiyati: 45 UrunAdi: Beton Markasi: Caytas
+UrunNo: 2526 Birim: 2 adet BirimFiyati: 1.207 UrunAdi: GunesPaneli Markasi: Lexron
+UrunNo: 7315 Birim: 4 adet BirimFiyati: 275 UrunAdi: KaloriferBorusu Markasi: Kalde
+UrunNo: 8593 Birim: 4 metre BirimFiyati: 8 UrunAdi: DemirProfil Markasi: Lexron

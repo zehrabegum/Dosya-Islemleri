@@ -1,0 +1,10 @@
+HakedisDonemi: 8 ProjeNo: 123 Birim: 5 kg BirimFiyati: 14 UrunAdi: Cimento Markasi: DenizYapi
+HakedisDonemi: 12 ProjeNo: 1234 Birim: 2 kg BirimFiyati: 181 UrunAdi: SeffafSuYalitimi Markasi: izoYalitim
+HakedisDonemi: 30 ProjeNo: 12345 Birim: 20 adet BirimFiyati: 28 UrunAdi: MolozCuvali Markasi: BurakYapi
+HakedisDonemi: 16 ProjeNo: 123456 Birim: 100 adet BirimFiyati: 11 UrunAdi: Tugla Markasi: KarahanTicaret
+HakedisDonemi: 24 ProjeNo: 132 Birim: 5 kg BirimFiyati: 12 UrunAdi: YapistirmaHarci Markasi: Bedel
+HakedisDonemi: 19 ProjeNo: 13267 Birim: 30 adet BirimFiyati: 10 UrunAdi: DemirBoru Markasi: DekorMagazam
+HakedisDonemi: 7 ProjeNo: 1456 Birim: 5 kg BirimFiyati: 45 UrunAdi: Beton Markasi: Caytas
+HakedisDonemi: 20 ProjeNo: 2526 Birim: 2 adet BirimFiyati: 1207 UrunAdi: GünesPaneli Markasi: Lexron
+HakedisDonemi: 9 ProjeNo: 7315 Birim: 4 adet BirimFiyati: 275 UrunAdi: KaloriferBorusu Markasi: Kalde
+HakedisDonemi: 4 ProjeNo: 8593 Birim: 4 metre BirimFiyati: 8 UrunAdi: DemirProfil Markasi: Lexron
